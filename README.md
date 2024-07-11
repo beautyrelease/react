@@ -1,4 +1,4 @@
-# release-beauty
+# beautyrelease
 
 ## 미용해제
 
